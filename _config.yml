@@ -80,3 +80,6 @@ defaults:
       type: "assignments"
     values:
       layout: "assignment"
+
+# managed by the DSL course sync - rewritten on every run
+title: "Deep Learning (Demo)"
