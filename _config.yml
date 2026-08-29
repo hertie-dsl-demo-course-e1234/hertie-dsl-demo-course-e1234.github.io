@@ -34,6 +34,7 @@ address: |
 
 # Shared visual theme — layout, branding and styles come from dsl-jekyll-theme.
 # Restyling happens there and propagates to every DSL site (see that repo).
+# managed by the DSL course sync - rewritten on every run
 remote_theme: "hertie-data-science-lab/dsl-jekyll-theme@9288394c5c6d78cf8e881bf4e22ab025a5da1888"
 plugins:
   - jekyll-remote-theme
@@ -57,6 +58,7 @@ exclude:
   - .bundle
   - SETUP-CHECKLIST.md
 
+# managed by the DSL course sync - rewritten on every run
 dateformat: "%m/%d/%Y"
 future: true
 
