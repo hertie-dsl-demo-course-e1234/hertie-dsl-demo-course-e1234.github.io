@@ -7,8 +7,10 @@ date: 2025-02-12T09:00:00
 title: "Session 6"
 links:
     - url: /public-materials/course-materials-f2026/session-6/lectures/Session6_E1394_DL_Lecture.pdf
-      name: "lecture - Session6_E1394_DL_Lecture.pdf"
+      name: "Session6_E1394_DL_Lecture.pdf"
+      section: "lecture"
     - url: /public-materials/course-materials-f2026/session-6/lectures/Session6_E1394_DL_preLecture.pdf
-      name: "lecture - Session6_E1394_DL_preLecture.pdf"
+      name: "Session6_E1394_DL_preLecture.pdf"
+      section: "lecture"
 ---
 Materials for session 6.

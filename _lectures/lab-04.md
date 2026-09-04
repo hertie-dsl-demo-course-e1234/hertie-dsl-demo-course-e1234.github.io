@@ -7,6 +7,7 @@ date: 2025-01-29T09:00:00
 title: "Lab 4"
 links:
     - url: /public-materials/course-materials-f2026/session-4/labs/Lab_Session_4.ipynb
-      name: "lab - Lab_Session_4.ipynb"
+      name: "Lab_Session_4.ipynb"
+      section: "lab"
 ---
 Materials for lab 4.

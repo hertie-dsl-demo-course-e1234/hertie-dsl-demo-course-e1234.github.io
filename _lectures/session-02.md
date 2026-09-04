@@ -14,6 +14,7 @@ reading_list: |2
   https://playground.tensorflow.org/
 links:
     - url: /public-materials/course-materials-f2026/session-2/lectures/Session2_E1394_DL.pdf
-      name: "lecture - Session2_E1394_DL.pdf"
+      name: "Session2_E1394_DL.pdf"
+      section: "lecture"
 ---
 Materials for session 2.

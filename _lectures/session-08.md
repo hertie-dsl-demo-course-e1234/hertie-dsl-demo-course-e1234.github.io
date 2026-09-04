@@ -19,8 +19,10 @@ reading_list: |2
   - Jacob Devlin, Ming-Wei Chang, Kenton Lee, Kristina Toutanova - BERT Pre-training of Deep Bidirectional Transformers for Language Understanding.pdf
 links:
     - url: /public-materials/course-materials-f2026/session-8/lectures/Session8_E1394_DL%20SECOND%20SESSION.pdf
-      name: "lecture - Session8_E1394_DL SECOND SESSION.pdf"
+      name: "Session8_E1394_DL SECOND SESSION.pdf"
+      section: "lecture"
     - url: /public-materials/course-materials-f2026/session-8/lectures/Session8_E1394_DL.pdf
-      name: "lecture - Session8_E1394_DL.pdf"
+      name: "Session8_E1394_DL.pdf"
+      section: "lecture"
 ---
 Materials for session 8.

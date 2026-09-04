@@ -7,6 +7,7 @@ date: 2025-01-15T09:00:00
 title: "Lab 2"
 links:
     - url: /public-materials/course-materials-f2026/session-2/labs/Lab_Session_2.ipynb
-      name: "lab - Lab_Session_2.ipynb"
+      name: "Lab_Session_2.ipynb"
+      section: "lab"
 ---
 Materials for lab 2.

@@ -7,6 +7,7 @@ date: 2025-03-19T09:00:00
 title: "Lab 11"
 links:
     - url: /public-materials/course-materials-f2026/session-11/labs/Lab%20Session%2011%20%28b%29.ipynb
-      name: "lab - Lab Session 11 (b).ipynb"
+      name: "Lab Session 11 (b).ipynb"
+      section: "lab"
 ---
 Materials for lab 11.

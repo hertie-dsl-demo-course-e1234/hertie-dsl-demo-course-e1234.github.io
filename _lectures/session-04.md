@@ -25,6 +25,7 @@ reading_list: |2
   - Kerner, H., Tseng, G., Becker-Reshef, I., Nakalembe, C., Barker, B., Munshell, B., Paliyam, M. and Hosseini, M., 2020. Rapid Response Crop Maps in Data Sparse Regions. arXiv preprin.pdf
 links:
     - url: /public-materials/course-materials-f2026/session-4/lectures/Session4_E1394_DL_preLecture.pdf
-      name: "lecture - Session4_E1394_DL_preLecture.pdf"
+      name: "Session4_E1394_DL_preLecture.pdf"
+      section: "lecture"
 ---
 Materials for session 4.

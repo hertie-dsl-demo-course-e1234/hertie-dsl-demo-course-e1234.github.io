@@ -7,6 +7,7 @@ date: 2025-02-19T09:00:00
 title: "Session 7"
 links:
     - url: /public-materials/course-materials-f2026/session-7/lectures/Session7_E1394_DL_preLecture.pdf
-      name: "lecture - Session7_E1394_DL_preLecture.pdf"
+      name: "Session7_E1394_DL_preLecture.pdf"
+      section: "lecture"
 ---
 Materials for session 7.

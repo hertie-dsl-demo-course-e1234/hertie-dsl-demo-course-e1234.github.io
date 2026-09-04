@@ -26,6 +26,7 @@ reading_list: |2
   - U-Net_ Convolutional Networks for Biomedical Image Segmentation.pdf
 links:
     - url: /public-materials/course-materials-f2026/session-5/lectures/Session5_E1394_DL_Lecture.pdf
-      name: "lecture - Session5_E1394_DL_Lecture.pdf"
+      name: "Session5_E1394_DL_Lecture.pdf"
+      section: "lecture"
 ---
 Materials for session 5.

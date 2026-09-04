@@ -16,6 +16,7 @@ reading_list: |2
   *This is a public repository, so copyrighted readings are cited rather than redistributed.*
 links:
     - url: /public-materials/course-materials-f2026/session-3/lectures/Session3_E1394_DL_Lecture.pdf
-      name: "lecture - Session3_E1394_DL_Lecture.pdf"
+      name: "Session3_E1394_DL_Lecture.pdf"
+      section: "lecture"
 ---
 Materials for session 3.

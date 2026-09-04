@@ -7,8 +7,10 @@ date: 2025-01-08T09:00:00
 title: "Lab 1"
 links:
     - url: /public-materials/course-materials-f2026/session-1/labs/Lab_Session_1.ipynb
-      name: "lab - Lab_Session_1.ipynb"
+      name: "Lab_Session_1.ipynb"
+      section: "lab"
     - url: /public-materials/course-materials-f2026/session-1/labs/Lab_session_1_Introduction_to_pandas.ipynb
-      name: "lab - Lab_session_1_Introduction_to_pandas.ipynb"
+      name: "Lab_session_1_Introduction_to_pandas.ipynb"
+      section: "lab"
 ---
 Materials for lab 1.

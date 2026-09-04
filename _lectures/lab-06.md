@@ -7,6 +7,7 @@ date: 2025-02-12T09:00:00
 title: "Lab 6"
 links:
     - url: /public-materials/course-materials-f2026/session-6/labs/Lab_session_6_%26_7.ipynb
-      name: "lab - Lab_session_6_&_7.ipynb"
+      name: "Lab_session_6_&_7.ipynb"
+      section: "lab"
 ---
 Materials for lab 6.
