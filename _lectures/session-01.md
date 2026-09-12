@@ -24,5 +24,8 @@ links:
     - url: /public-materials/course-materials-f2026/session-1/lectures/Session1_E1394_DL_preLecture.pdf
       name: "Session1_E1394_DL_preLecture.pdf"
       section: "lecture"
+    - url: /public-materials/course-materials-f2026/session-1/lectures/Session1_demo_deck.html
+      name: "Session1_demo_deck.html"
+      section: "lecture"
 ---
 Materials for session 1.
