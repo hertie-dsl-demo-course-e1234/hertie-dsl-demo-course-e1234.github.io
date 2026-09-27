@@ -11,14 +11,14 @@ Its content comes from the course org's `.github/dsl-course.yml` and the materia
 | Path | Holds |
 | --- | --- |
 | `_lectures/` | one page per session and lab |
-| `_assignments/` | one page per handed-out assignment |
+| `_assignments/` | each assignment's hand-out and due rows |
 | `_events/` | exams, semester dates, display-only rows |
 | `_data/people.yml` | the instructor cards |
 | `_data/nav.yml` | the nav bar |
 | the tab pages - `lectures.md`, `labs.md`, `assignments.md`, `materials.md` | the wrappers the tabs point at |
 | `_layouts/`, `_includes/`, `_sass/_course.scss` | how every page renders |
 | `.github/workflows/deploy.yml` | the Pages build |
-| `_config.yml` | the course identity keys, the pinned theme, and the `collections:`/`defaults:` the layouts need |
+| `_config.yml` | the course identity keys, the pinned theme, and the `collections:` the layouts need |
 
 Each collection is CLEARED and rewritten on every sync, so a file you add to one disappears on the next run. The tab pages are rewritten too - they are generated wrappers, so put your own words in `index.md`, or in a page of your own linked from there.
 

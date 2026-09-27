@@ -3,7 +3,6 @@
 # rewrites this whole collection on every run. Edit the source instead: the semester's
 # semester-config/schedule.yml (dates, titles) or its org structure (what released).
 kind: lecture
-type: lecture
 date: 2025-02-12T09:00:00
 title: "Session 6"
 links:
