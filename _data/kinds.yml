@@ -56,6 +56,13 @@
   background: "#fbe3d6"
   system: false
   tab: "/drop-ins/"
+- key: assets
+  label: "Supporting files"
+  plural: "Supporting files"
+  colour: "#4a5560"
+  background: "#eceff1"
+  system: false
+  tab: "/assets/"
 - key: other
   label: "Event"
   plural: "Other"
