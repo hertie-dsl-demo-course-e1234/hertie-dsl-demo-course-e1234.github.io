@@ -15,7 +15,7 @@ Its content comes from the course org's `.github/dsl-course.yml` and the materia
 | `_events/` | exams, semester dates, display-only rows |
 | `_data/people.yml` | the instructor cards |
 | `_data/nav.yml` | the nav bar |
-| the tab pages - `lectures.md`, `labs.md`, `assignments.md`, `materials.md` | the wrappers the tabs point at |
+| the tab pages - `lectures.md`, `labs.md`, `materials.md` | the wrappers the tabs point at |
 | `_layouts/`, `_includes/`, `_sass/_course.scss` | how every page renders |
 | `.github/workflows/deploy.yml` | the Pages build |
 | `_config.yml` | the course identity keys, the pinned theme, and the `collections:` the layouts need |
