@@ -8,7 +8,7 @@
 
 # --- Course identity ---
 course_name: "Deep Learning (Demo)"
-course_description: "One paragraph description of the course."
+course_description: "A public demonstration course run by the Hertie Data Science Lab - one course org and two cohort orgs showing the teaching toolkit end to end."
 course_semester: "Open Courseware"
 course_code: "E1234"
 github_org: "hertie-dsl-demo-course-e1234"
@@ -69,12 +69,17 @@ collections:
   lectures:
     output: true
   assignments:
-    output: false
+    output: true
   announcements:
     output: false
 
 # managed by the DSL course sync - rewritten on every run
-defaults: []
+defaults:
+  - scope:
+      path: ""
+      type: "assignments"
+    values:
+      layout: "assignment"
 
 # managed by the DSL course sync - rewritten on every run
 title: "Deep Learning (Demo)"
