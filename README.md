@@ -4,7 +4,7 @@
 
 **Do not edit this repository.** It is machine-written: every sync rewrites the generated files below and pushing redeploys the site, so an edit here is overwritten and lost.
 
-Its content comes from the course org's `.github/dsl-course.yml` and the materials repo it publishes.
+Its content comes from the course org's `.github/course.yml` and the materials repo it publishes.
 
 ## What the sync owns
 
