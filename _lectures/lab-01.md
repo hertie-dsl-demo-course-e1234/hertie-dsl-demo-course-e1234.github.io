@@ -12,5 +12,8 @@ links:
     - url: /public-materials/course-materials-f2026/session-1/labs/Lab_session_1_Introduction_to_pandas.ipynb
       name: "Lab_session_1_Introduction_to_pandas.ipynb"
       section: "lab"
+    - url: /public-materials/course-materials-f2026/session-1/labs/remove-me.md
+      name: "remove-me.md"
+      section: "lab"
 ---
 Materials for lab 1.
